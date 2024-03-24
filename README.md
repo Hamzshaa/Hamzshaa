@@ -1,6 +1,5 @@
 <h1 align="center">Hello 👋, I'm Hamza Jhad</h1>
 
-<p>I am a software developer from Addis Ababa Unverstiy with interest for building immersive experiences and interactive applications. I have specialized in MERN stack (MongoDB, Express.js, React.js, Node.js), where I combine my skills in frontend and backend development to create dynamic and scalable web applications. With a high interest in game development, I love creating game assets and reusable components. Whether it's Full stack web, coding game mechanics or optimizing performance, I'm always up for challenging myself.</p>
 <p>I am a software developer from Addis Ababa Unverstiy with interest for building immersive experiences and interactive applications. I have specialized in MERN stack, where I combine my skills in frontend and backend development to create dynamic and scalable web applications. With a high interest in game development, I love creating game assets and reusable components. Whether it's Full stack web, coding game mechanics or optimizing performance, I'm always up for challenging myself.</p>
 
 Check my [Portfolio](https://hamzshaa.github.io/Personal-Portfolio/)  |  Download my [resume](https://hamzshaa.github.io/Personal-Portfolio/static/media/Hamza_Jhad.222797a9fb711fc092cc.pdf)
