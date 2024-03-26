@@ -9,7 +9,7 @@ Check my [Portfolio](https://hamzshaa.github.io/Personal-Portfolio/)  |  Downloa
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BaslaelWorkineh&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=BaslaelWorkineh&show_icons=true&theme=radical&locale=en&layout=compact)
 ---
-- I’m currently working on [Methaft](https://metshaft.onrender.com/), [Ramadan salat schedule](https://ramadan-camp.netlify.app)
+- I’m currently working on [Methaft](https://metshaft.onrender.com/), [Ramadan Companion](https://ramadan-camp.netlify.app)
 - you can see my projects here [My Website](https://hamzshaa.github.io/Personal-Portfolio/)
 - Email me through: **trident32000@gmail.com**
 <h3 align="left">Connect with me:</h3>
