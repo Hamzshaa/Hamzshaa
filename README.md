@@ -6,8 +6,8 @@ Check my [Portfolio](https://hamzshaa.github.io/Personal-Portfolio/)  |  Downloa
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hamzshaa&show_icons=true&theme=radical&locale=en)<br/>
 <img align="right" width=250px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-![](https://github-readme-streak-stats.herokuapp.com/?user=BaslaelWorkineh&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs?username=BaslaelWorkineh&show_icons=true&theme=radical&locale=en&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hamzshaa&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Hamzshaa&show_icons=true&theme=radical&locale=en&layout=compact)
 ---
 - I’m currently working on [Methaft](https://metshaft.onrender.com/), [Ramadan Companion](https://ramadan-camp.netlify.app)
 - you can see my projects here [My Website](https://hamzshaa.github.io/Personal-Portfolio/)
